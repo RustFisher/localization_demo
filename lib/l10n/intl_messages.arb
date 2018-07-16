@@ -1,0 +1,21 @@
+{
+  "@@last_modified": "2018-07-16T21:55:52.481700",
+  "title": "Localization Demo",
+  "@title": {
+    "description": "应用标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "click": "Click",
+  "@click": {
+    "description": "点击",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helloFromDemo": "Hello~",
+  "@helloFromDemo": {
+    "description": "一句问候",
+    "type": "text",
+    "placeholders": {}
+  }
+}
